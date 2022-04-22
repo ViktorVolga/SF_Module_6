@@ -4,11 +4,10 @@ using namespace std;
 
 class Device
 {
-public:
 	int _batterylife;
+public:
 	Device(int _batterylife);
 	void Showspec();
-private:
-	
+
 	
 };
